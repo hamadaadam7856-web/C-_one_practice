@@ -1,0 +1,10 @@
+D:\My files\documents\C# Assignment Two\Assignment Two\Assignment Two\bin\Debug\Assignment Two.exe.config
+D:\My files\documents\C# Assignment Two\Assignment Two\Assignment Two\bin\Debug\Assignment Two.exe
+D:\My files\documents\C# Assignment Two\Assignment Two\Assignment Two\bin\Debug\Assignment Two.pdb
+D:\My files\documents\C# Assignment Two\Assignment Two\Assignment Two\obj\Debug\Assignment Two.csproj.AssemblyReference.cache
+D:\My files\documents\C# Assignment Two\Assignment Two\Assignment Two\obj\Debug\Assignment_Two.Form1.resources
+D:\My files\documents\C# Assignment Two\Assignment Two\Assignment Two\obj\Debug\Assignment_Two.Properties.Resources.resources
+D:\My files\documents\C# Assignment Two\Assignment Two\Assignment Two\obj\Debug\Assignment Two.csproj.GenerateResource.cache
+D:\My files\documents\C# Assignment Two\Assignment Two\Assignment Two\obj\Debug\Assignment Two.csproj.CoreCompileInputs.cache
+D:\My files\documents\C# Assignment Two\Assignment Two\Assignment Two\obj\Debug\Assignment Two.exe
+D:\My files\documents\C# Assignment Two\Assignment Two\Assignment Two\obj\Debug\Assignment Two.pdb

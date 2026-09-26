@@ -1,0 +1,11 @@
+D:\My files\documents\C# Assignments\C# Assignment one\C# Assignment one\bin\Debug\C# Assignment one.exe.config
+D:\My files\documents\C# Assignments\C# Assignment one\C# Assignment one\bin\Debug\C# Assignment one.exe
+D:\My files\documents\C# Assignments\C# Assignment one\C# Assignment one\bin\Debug\C# Assignment one.pdb
+D:\My files\documents\C# Assignments\C# Assignment one\C# Assignment one\obj\Debug\C# Assignment one.csproj.AssemblyReference.cache
+D:\My files\documents\C# Assignments\C# Assignment one\C# Assignment one\obj\Debug\C__Assignment_one.Form1.resources
+D:\My files\documents\C# Assignments\C# Assignment one\C# Assignment one\obj\Debug\C__Assignment_one.Properties.Resources.resources
+D:\My files\documents\C# Assignments\C# Assignment one\C# Assignment one\obj\Debug\C# Assignment one.csproj.GenerateResource.cache
+D:\My files\documents\C# Assignments\C# Assignment one\C# Assignment one\obj\Debug\C# Assignment one.csproj.CoreCompileInputs.cache
+D:\My files\documents\C# Assignments\C# Assignment one\C# Assignment one\obj\Debug\C# Assignment one.exe
+D:\My files\documents\C# Assignments\C# Assignment one\C# Assignment one\obj\Debug\C# Assignment one.pdb
+D:\My files\documents\C# Assignments\C# Assignment one\C# Assignment one\obj\Debug\C# Assignment one.exe.config
